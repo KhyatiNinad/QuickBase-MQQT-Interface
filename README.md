@@ -14,7 +14,7 @@ Expected MQQT Payload is:
 }
 ```
 
-Below Credentials/URLs are required, which can be configured in \Power IoT Interface\Power IoT InterfaceappSettings.json
+Below Credentials/URLs are required to make this work with your Quick Base Application, which can be configured in \Power IoT Interface\Power IoT Interface\appSettings.json
 
 ```
 * Influx DB - URL, Org, Bucket and Security Token
